@@ -1,7 +1,6 @@
 este es el primer archivo - Equipo 4
 segunda modificación
+primera linea 
+segunda linea
 
-
-
-
-AHHHHHHHHHHHHHHHH!
+tercera linea
